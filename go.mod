@@ -1,3 +1,3 @@
-module github.com/BlaCkinkGJ/go-smart-disk.git
+module github.com/BlaCkinkGJ/go-smart-disk
 
 go 1.18
